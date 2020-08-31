@@ -21,7 +21,7 @@ gamma
 Here's the list:
 
 ```
-0	acneilse acneilse adamowens2199	wfpelton
+0	acneilse acneilse adamowens wfpelton
 1	adamowens2199
 2	bteaford17
 3	csk214
