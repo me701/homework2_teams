@@ -1,4 +1,4 @@
-# Homework 2 Teams
+ # Homework 2 Teams
 
 Team assignments for Homework 2
 
@@ -35,7 +35,7 @@ jemilbu
 clarence64
 milan
 jacobdmorrison7
-jlness
+jlness jacobdmorrison7 zcoster
 zcoster
 dustympage
 rfsantill
