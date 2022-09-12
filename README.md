@@ -30,7 +30,7 @@ alphabetical order.
 ```
 adam624
 ajboettcher3
-angel36
+angel36 angel36-ksu bafunk ajboettcher3
 bafunk
 djburgett
 emmadeg
