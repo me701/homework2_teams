@@ -1,4 +1,4 @@
-# Homework 2 Teams
+ g# Homework 2 Teams
 
 These are the team assignments for Homework 2.
 
@@ -34,7 +34,7 @@ angel36
 bafunk
 djburgett
 emmadeg
-gracewojcik
+gracewojcik gracewojcik701 jnillo emmadeg
 jnillo
 kirkenda
 lkmcfadd
