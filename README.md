@@ -1,4 +1,4 @@
-# Homework 2 Teams
+ # Homework 2 Teams
 
 These are the team assignments for Homework 2.
 
@@ -39,7 +39,7 @@ jnillo
 kirkenda
 lkmcfadd
 mckeer1
-mjkarley
+mjkarley mjkarley nfstone mckeer1
 nfstone
 oscarsaf
 wjk
