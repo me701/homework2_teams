@@ -29,7 +29,7 @@ alphabetical order.
 
 ```
 adam624
-ajboettcher3 ajboettcher3 angel36 bafunk
+ajboettcher3 ajboettcher3 angel36 adam624
 angel36
 bafunk
 djburgett
