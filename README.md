@@ -42,7 +42,7 @@ mckeer1
 mjkarley
 nfstone
 oscarsaf
-wjk WillKelly2 zjkowal adam624
+wjk WillKelly2 zjkowal oscarsaf
 zjkowal
 ```
 
