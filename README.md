@@ -41,7 +41,7 @@ lkmcfadd
 mckeer1
 mjkarley
 nfstone
-oscarsaf oscarsaf nfstone wjk
+oscarsaf oscarsaf wjk nfstone
 wjk
 zjkowal
 ```
