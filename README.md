@@ -30,7 +30,7 @@ alphabetical order.
 
 ```
 abourman        @AidenBourman
-aidenbutcher04  @aidenbutcher0
+aidenbutcher04  @aidenbutcher0   akmauler   abourman
 akmauler        @akmauler
 blayneg         @BlayneG6957
 deckerberg      @deckerberg
