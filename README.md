@@ -35,7 +35,7 @@ akmauler        @akmauler
 blayneg         @BlayneG6957
 deckerberg      @deckerberg
 lmcrowell       @lmcrowell
-plee30          @pglizzy
+plee30          @pglizzy	rbourisaw	lmcrowell
 rbourisaw       @rbourisaw
 salamandersix   @salamandersix
 ```
