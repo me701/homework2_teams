@@ -34,7 +34,7 @@ aidenbutcher04  @aidenbutcher0
 akmauler        @akmauler
 blayneg         @BlayneG6957
 deckerberg      @deckerberg
-lmcrowell       @lmcrowell
+lmcrowell       @lmcrowell	deckerberg	plee30
 plee30          @pglizzy
 rbourisaw       @rbourisaw
 salamandersix   @salamandersix
