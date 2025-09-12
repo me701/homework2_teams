@@ -33,7 +33,7 @@ abourman        @AidenBourman
 aidenbutcher04  @aidenbutcher0
 akmauler        @akmauler
 blayneg         @BlayneG6957
-deckerberg      @deckerberg	blayneg		lmcrowell
+deckerberg      @deckerberg	lmcrowell	blayneg
 lmcrowell       @lmcrowell
 plee30          @pglizzy
 rbourisaw       @rbourisaw
