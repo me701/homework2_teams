@@ -29,7 +29,7 @@ Below is a list of your GitHub Classroom identifiers in
 alphabetical order.  
 
 ```
-abourman        @AidenBourman
+abourman        @abourman       aidenbutcher04  salamandersix
 aidenbutcher04  @aidenbutcher0
 akmauler        @akmauler	@aidenbutcher0	@BlayneG6957
 blayneg         @BlayneG6957	deckerberg	akmauler
