@@ -31,15 +31,12 @@ alphabetical order.
 ```
 abourman        @abourman       aidenbutcher04  salamandersix
 aidenbutcher04  @aidenbutcher0
-<<<<<<< HEAD
-akmauler        @akmauler	Blayne G6957    aidenbutcher0
-=======
-akmauler        @akmauler	aidenbutcher0	BlayneG6957
->>>>>>> mothership/master
+akmauler        @akmauler	BlayneG6957    aidenbutcher0
+aidenbutcher04  @aidenbutcher0   akmauler   abourman
 blayneg         @BlayneG6957	deckerberg	akmauler
 deckerberg      @deckerberg	lmcrowell	blayneg
 lmcrowell       @lmcrowell
-plee30          @pglizzy
+plee30          @pglizzy	rbourisaw	lmcrowell
 rbourisaw       @rbourisaw	salamandersix	plee30
 salamandersix   @salamandersix
 ```
