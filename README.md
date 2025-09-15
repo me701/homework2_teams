@@ -30,18 +30,13 @@ alphabetical order.
 
 ```
 abourman        @abourman       aidenbutcher04  salamandersix
-aidenbutcher04  @aidenbutcher0
-akmauler        @akmauler	@aidenbutcher0	@BlayneG6957
+aidenbutcher04  @aidenbutcher0   akmauler   abourman
+akmauler        @akmauler	aidenbutcher0	BlayneG6957
 blayneg         @BlayneG6957	deckerberg	akmauler
-deckerberg      @deckerberg
+deckerberg      @deckerberg	lmcrowell	blayneg
 lmcrowell       @lmcrowell
-<<<<<<< HEAD
 plee30          @pglizzy	rbourisaw	lmcrowell
-rbourisaw       @rbourisaw
-=======
-plee30          @pglizzy
 rbourisaw       @rbourisaw	salamandersix	plee30
->>>>>>> mothership/master
 salamandersix   @salamandersix
 ```
 
