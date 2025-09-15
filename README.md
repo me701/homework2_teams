@@ -29,14 +29,19 @@ Below is a list of your GitHub Classroom identifiers in
 alphabetical order.  
 
 ```
-abourman        @AidenBourman
+abourman        @abourman       aidenbutcher04  salamandersix
 aidenbutcher04  @aidenbutcher0
-akmauler        @akmauler
-blayneg         @BlayneG6957
+akmauler        @akmauler	@aidenbutcher0	@BlayneG6957
+blayneg         @BlayneG6957	deckerberg	akmauler
 deckerberg      @deckerberg
 lmcrowell       @lmcrowell
+<<<<<<< HEAD
 plee30          @pglizzy	rbourisaw	lmcrowell
 rbourisaw       @rbourisaw
+=======
+plee30          @pglizzy
+rbourisaw       @rbourisaw	salamandersix	plee30
+>>>>>>> mothership/master
 salamandersix   @salamandersix
 ```
 
