@@ -31,7 +31,7 @@ alphabetical order.
 ```
 abourman        @abourman       aidenbutcher04  salamandersix
 aidenbutcher04  @aidenbutcher0
-akmauler        @akmauler	aidenbutcher0	BlayneG6957
+akmauler        @akmauler	Blayne G6957    aidenbutcher0
 blayneg         @BlayneG6957	deckerberg	akmauler
 deckerberg      @deckerberg
 lmcrowell       @lmcrowell
