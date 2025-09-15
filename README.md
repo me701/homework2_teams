@@ -30,9 +30,9 @@ alphabetical order.
 
 ```
 abourman        @AidenBourman
-aidenbutcher04  @aidenbutcher0
-akmauler        @akmauler
-blayneg         @BlayneG6957
+aidenbutcher04  @aidenbutcher0 
+akmauler        @akmauler	@aidenbutcher0	@BlayneG6957
+blayneg         @BlayneG6957  
 deckerberg      @deckerberg
 lmcrowell       @lmcrowell
 plee30          @pglizzy
