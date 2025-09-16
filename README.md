@@ -37,7 +37,7 @@ deckerberg      @deckerberg     lmcrowell       blayneg
 lmcrowell       @lmcrowell      plee30          deckerberg
 plee30          @pglizzy        rbourisaw       lmcrowell
 rbourisaw       @rbourisaw      salamandersix   plee30
-salamandersix   @salamandersix
+salamandersix   @salamandersix  abourman        rbourisaw
 ```
 
 
