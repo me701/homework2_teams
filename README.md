@@ -31,12 +31,12 @@ alphabetical order.
 ```
 abourman        @abourman       aidenbutcher04  salamandersix
 aidenbutcher04  @aidenbutcher0  akmauler        abourman
-akmauler        @akmauler       aidenbutcher0   BlayneG6957
+akmauler        @akmauler       BlayneG6957     aidenbutcher0
 blayneg         @BlayneG6957    deckerberg      akmauler
-deckerberg      @deckerberg	    lmcrowell       blayneg
+deckerberg      @deckerberg     lmcrowell       blayneg
 lmcrowell       @lmcrowell
-plee30          @pglizzy	    rbourisaw	    lmcrowell
-rbourisaw       @rbourisaw	    salamandersix	plee30
+plee30          @pglizzy        rbourisaw       lmcrowell
+rbourisaw       @rbourisaw      salamandersix   plee30
 salamandersix   @salamandersix
 ```
 
